@@ -5,6 +5,8 @@ html, body, main {
   font-family: 'Helvetica Neue', Arial, sans-serif;
   font-size: 16px;
   color: #333;
+  background-color: #F8F2E3;
+
 }
 
 textarea, section {
@@ -12,15 +14,15 @@ textarea, section {
   width: 49%;
   height: 100%;
   vertical-align: top;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
   box-sizing: border-box;
   padding: 40px 10px 0 20px;
 }
 
 section {
   overflow: scroll;
-
+  background-color: #F8F2E3;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 1.2rem;
 }
 
 textarea {
@@ -29,7 +31,7 @@ textarea {
   resize: none;
   outline: none;
   background-color: #f6f6f6;
-  font-family: 'Monaco', courier, monospace;
+  font-family: 'Monaco', "Lucida Console", courier, monospace;
   font-size: 14px;
   padding-top: 55px;
 }

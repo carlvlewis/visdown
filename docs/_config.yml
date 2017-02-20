@@ -6,7 +6,7 @@ twitter:
 
 url: http://visdown.amitkaps.com
 permalink: pretty
-port: 4001
+port: 4008
 
 gems:
   - jekyll-seo-tag
